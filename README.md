@@ -16,7 +16,7 @@ TBC
 ## 🚀 Projects
 TBC
 <!--
-- 🔍 **Titanic Survival Prediction** – Supervised ML using scikit-learn  
+- 🔍 **Titanic Survival Prediction** – Supervised ML using scikit-learn (**https://www.kaggle.com/code/alexisbcook/titanic-tutorial**)  
 - 📊 **AdventureWorks SQL Analysis** – Business insight via T-SQL  
 - ⚽ **FPL Dashboard in Power BI** – Fantasy football visual insights  
 - 🩺 **X-Ray Image Classification** – Pneumonia detection (CV project)
